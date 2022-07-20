@@ -1,13 +1,13 @@
 {
-  "name": "protonmail-api",
+  "name": "@kosamit/protonmail-api",
   "version": "2.3.0",
   "description": "Node.js API for ProtonMail",
-  "repository": "github:justinkalland/protonmail-api",
-  "homepage": "https://github.com/justinkalland/protonmail-api#readme",
+  "repository": "github:kosamit/protonmail-api",
+  "homepage": "https://github.com/kosamit/protonmail-api#readme",
   "bugs": {
-    "url": "https://github.com/justinkalland/protonmail-api/issues"
+    "url": "https://github.com/kosamit/protonmail-api/issues"
   },
-  "author": "Justin Kalland <justin@kalland.com>",
+  "author": "kosamit <kosamit@gmail.com>",
   "license": "MIT",
   "types": "./types.d.ts",
   "scripts": {
